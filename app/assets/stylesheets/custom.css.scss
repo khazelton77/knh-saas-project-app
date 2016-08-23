@@ -115,3 +115,17 @@
 .no-right-padding {
 	padding-right: 0 !important;
 }
+
+.table tr td {
+	a.main-link {
+		color: #428bca;
+	}
+	a.main-link:hover {
+	background: none;
+	}
+}
+
+.datepicker {
+	margin-top: 12px;
+	padding-top: 5px;
+}
